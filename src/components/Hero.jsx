@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
   return (
    <main className=" relative w-full h-screen overflow-hidden flex justify-center mb-[10%]  ">
-    <video src="public\videos\hero.mp4" 
+    <video src="videos/hero.mp4" 
     autoPlay
     loop
     muted
@@ -14,7 +14,7 @@ const Hero = () => {
 
     <div className='absolute bottom-[15%] 
     flex flex-col items-center gap-5'>
-        <img src="public\images\illu-text.png" 
+        <img src="images/illu-text.png" 
         alt="Illu-text"
         className='md:w-[30rem] w-[20rem] ' 
         
@@ -29,7 +29,7 @@ const Hero = () => {
                 </button>
 
                 <div className='flex items-center gap-5 text-3xl font-extrabold text-gray-200'>
-                    <img className='md:h-16 h-12' src="public\images\logo.png" alt="illu-loo" />ZERO
+                    <img className='md:h-16 h-12' src="public/images/logo.png" alt="illu-loo" />ZERO
                 </div>
 
                 <p className='ma-w-[80%] text-center text-[#babaff]'>Notice: Illuvium Games are in Beta.
