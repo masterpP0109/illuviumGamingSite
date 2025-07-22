@@ -21,7 +21,7 @@ const Arena = () => {
 
                     {/* Card BG */}
                     <div className="absolute h-full w-full">
-                        <img src="public/images/bento-card1.png" alt="card1" />
+                        <img src="images/bento-card1.png" alt="card1" />
 
                         <button className="absolute bottom-0 h-16 w-full
                         bg-black bg-opacity-70 text-2xl font-bold hover:text-yellow-400

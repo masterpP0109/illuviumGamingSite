@@ -21,7 +21,7 @@ const Header = () => {
 
          {/*left section*/}
         <div className="flex lg:gap-14 gap-4 items-center">
-            <img className="md:w-16 w-12" src="public\images\logo.png" alt="logo-img" />
+            <img className="md:w-16 w-12" src="images/logo.png" alt="logo-img" />
             <div className="hidden md:flex gap-5 items-center">
                 <button className="h-8 px-6 bg-gradient-to-r from-purple-500 to-indigo-600 rounded-lg font-medium text-nowrap hover:opacity-70 transition-all duration-300 ">
                     PLAY NOW

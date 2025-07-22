@@ -29,7 +29,7 @@ const Hero = () => {
                 </button>
 
                 <div className='flex items-center gap-5 text-3xl font-extrabold text-gray-200'>
-                    <img className='md:h-16 h-12' src="public/images/logo.png" alt="illu-loo" />ZERO
+                    <img className='md:h-16 h-12' src="images/logo.png" alt="illu-loo" />ZERO
                 </div>
 
                 <p className='ma-w-[80%] text-center text-[#babaff]'>Notice: Illuvium Games are in Beta.

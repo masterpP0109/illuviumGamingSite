@@ -15,15 +15,15 @@ const Footer = () => {
 
                   <a className="md:text-3xl text-2xl 
             hover:text-violet-600 duration-300" href="#">
-                <i class='bx bxl-twitter'></i></a>
+                <i class='bx  bxl-whatsapp'  ></i> </a>
 
                   <a className="md:text-3xl text-2xl 
             hover:text-violet-600 duration-300" href="#">
-                <i class='bx bxl-twitter'></i></a>
+                <i class='bx  bxl-linkedin-square'  ></i> </a>
 
                   <a className="md:text-3xl text-2xl 
             hover:text-violet-600 duration-300" href="#">
-                <i class='bx bxl-twitter'></i></a>
+                <i class='bx  bxl-facebook'  ></i> </a>
 
          </div>
     </footer>
