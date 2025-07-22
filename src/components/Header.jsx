@@ -71,7 +71,7 @@ const Header = () => {
         </nav>
         {/**Mobile menu */}
         <button onClick={toggleMobileMenu} className="text-3xl p-2 md:hidden">
-           < i class='bx bx-menu'></i>C
+           < i class='bx bx-menu'></i>
         </button>
 
         {/*mobile menu - hidden by default */}
